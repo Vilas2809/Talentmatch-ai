@@ -23,7 +23,7 @@ body {
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
 }
 
-.header {
+.title {
   margin-bottom: 18px;
 }
 
@@ -34,6 +34,12 @@ h1 {
   color: #ffffff;
   font-size: 3rem;
   line-height: 1.1;
+}
+
+.feature-tag {
+  font-size: 1rem;
+  color: #bbb;
+  margin-top: 6px;
 }
 
 .subtitle {

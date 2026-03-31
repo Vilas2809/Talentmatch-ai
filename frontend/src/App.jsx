@@ -131,8 +131,11 @@ function App() {
   return (
     <div className="app">
       <div className="container">
-        <div className="header">
-          <h1>🔥 AI Resume Roaster</h1>
+        <div className="title">
+          <h1> TalentMatch AI</h1>
+          <p className = "feature-tag">
+            🔥 Resume Roaster -- AI-powered feedback engine
+          </p>
           <p className="subtitle">
             Actionable insights. Smart feedback. Real career impact.
           </p>
