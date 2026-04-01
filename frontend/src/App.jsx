@@ -134,7 +134,7 @@ function App() {
         <div className="title">
           <h1> TalentScope AI </h1>
           <p className = "feature-tag">
-            🔥 Resume Roaster -- AI-powered feedback engine
+            🔥 Resume Roaster -- Resume Intelligence Platform
           </p>
           <p className="subtitle">
             Actionable insights. Smart feedback. Real career impact.
