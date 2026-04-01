@@ -4,8 +4,7 @@ An AI-powered resume analysis platform that scores resumes, matches them against
 
 ## 🌐 Live Demo
 
-**Frontend:** https://prism-ai-vilas2809s-projects.vercel.app
-
+**Frontend:** https://talentscope-ai-vilas2809s-projects.vercel.app
 ## ✨ Features
 
 - Upload a resume in PDF format
@@ -59,7 +58,7 @@ It demonstrates both **software engineering** and **product thinking**.
 ## 📂 Project Structure
 
 ```text
-ai-resume-roaster/
+TalentScope-ai/
 ├── backend/
 │   ├── main.py
 │   ├── requirements.txt
@@ -98,7 +97,7 @@ ai-resume-roaster/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Vilas2809/prism-ai.git
+git clone https://github.com/Vilas2809/talentscope-ai.git
 cd ai-resume-roaster
 ```
 
@@ -141,7 +140,7 @@ VITE_API_BASE_URL=http://127.0.0.1:8000
 
 ### Frontend
 Deployed on Vercel:
-- https://prism-ai-vilas2809s-projects.vercel.app
+- https://talentscope-ai-vilas2809s-projects.vercel.app/
 
 ### Backend
 Deployed on Render.
